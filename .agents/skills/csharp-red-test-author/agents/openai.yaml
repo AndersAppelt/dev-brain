@@ -1,0 +1,3 @@
+interface:
+  display_name: "Csharp Red Test Author"
+  short_description: "Write one meaningful failing test"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Feature Spec Writer"
+  short_description: "Write agent specs and Jira-ready requirements"

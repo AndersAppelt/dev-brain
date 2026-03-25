@@ -1,0 +1,3 @@
+interface:
+  display_name: "Csharp Test Refactor"
+  short_description: "Refactor after green without changing behavior"

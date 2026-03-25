@@ -1,0 +1,3 @@
+interface:
+  display_name: "Codebase Requirements Reviewer"
+  short_description: "Find requirement gaps from the repo"

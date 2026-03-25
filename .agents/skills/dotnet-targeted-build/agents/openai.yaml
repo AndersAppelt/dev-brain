@@ -1,0 +1,3 @@
+interface:
+  display_name: "Dotnet Targeted Build"
+  short_description: "Build the smallest relevant .NET scope"

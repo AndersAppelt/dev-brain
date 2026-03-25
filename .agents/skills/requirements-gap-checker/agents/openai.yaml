@@ -1,0 +1,3 @@
+interface:
+  display_name: "Requirements Gap Checker"
+  short_description: "Check if a feature spec is truly complete"

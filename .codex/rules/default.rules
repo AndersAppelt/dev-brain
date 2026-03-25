@@ -1,0 +1,5 @@
+prefix_rule(
+    pattern = ["dotnet", ["build", "test"]],
+    decision = "allow",
+    justification = "Always allow dotnet build and dotnet test outside the sandbox.",
+)

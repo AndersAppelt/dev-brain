@@ -1,0 +1,3 @@
+interface:
+  display_name: "Dotnet Test MTP"
+  short_description: "Targeted dotnet test for native .NET 10 MTP repos"

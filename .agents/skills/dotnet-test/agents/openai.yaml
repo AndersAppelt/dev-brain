@@ -1,0 +1,3 @@
+interface:
+  display_name: "Dotnet Test"
+  short_description: "Targeted dotnet test for VSTest-style repos"
