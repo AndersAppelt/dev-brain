@@ -74,3 +74,10 @@ Typical outcome: quick diagnostics without running full-solution validation by d
 - Need to audit an existing draft requirement: use the Codebase-Informed Requirement Review Workflow.
 - Need to implement behavior safely in C#/.NET: use the Single-Slice TDD Workflow.
 - Need quick compile/test feedback: use the Targeted Verification Workflow.
+
+## Useful MCP server installations
+
+```
+codex mcp add figma --url https://mcp.figma.com/mcp
+codex mcp add jira --url https://mcp.atlassian.com/v1/mcp
+```

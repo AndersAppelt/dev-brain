@@ -1,0 +1,3 @@
+interface:
+  display_name: "Requirements Chunk Planner"
+  short_description: "Break approved requirements into individually deployable slices"
